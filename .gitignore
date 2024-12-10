@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+data/sentence_embeddings/
+
 # Distribution / packaging
 .Python
 build/
