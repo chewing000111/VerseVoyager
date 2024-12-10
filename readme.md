@@ -138,6 +138,3 @@ https://github.com/chinese-poetry/chinese-poetry
 [翻译]Kanbun-LM
 https://github.com/nlp-waseda/Kanbun-LM
 ```
-
-<!-- ALL-CONTRIBUTORS-LIST: START - Do not remove or modify this section -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
