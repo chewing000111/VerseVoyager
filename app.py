@@ -147,13 +147,6 @@ def search_result():
                      "title_full":book["title"], "paragraph_full": paragraph_full,"state":book["state"]})
         book_links.append((title,book["title"]))
 
-    # 模组1
-    # with ui.element('div').classes('w-2/3 self-center px-4'):
-    #     with ui.card().classes('w-full p-2'):
-    #         ui.label(value.search_tag).classes("text-indigo-5")
-    #         ui.tooltip('在搜索栏输入些什么吧~').classes('bg-indigo-400').props('delay=1000 transition-show=rotate anchor="bottom start" self="bottom right"')
-
-
     with ui.element('div').classes('w-2/3 self-center row'):
         # 主模块
         with ui.element('div').classes('w-3/4 px-4'):
@@ -199,14 +192,6 @@ def search_result():
                 ui.link('[数据集]chinese-poetry', 'https://github.com/chinese-poetry/chinese-poetry')
                 ui.link('[翻译]Kanbun-LM', 'https://github.com/nlp-waseda/Kanbun-LM')
 
-
-    #
-    # def history_select(e: events.GenericEventArguments) -> None:
-    #     input_search.value = e.args["text"]
-    #
-    # def history_select_plus(e: events.GenericEventArguments) -> None:
-    #     input_search.value = e.args["text"]
-    #     value.backtrack(e.args["text"])
 
 
 with ui.header(elevated=True).style('background-color: #fff9').classes('items-center justify-between backdrop-blur'):
@@ -276,7 +261,5 @@ ui.add_body_html('''
 ''')
 
 ui.run(port=8083)
-
-
 
 
