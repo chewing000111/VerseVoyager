@@ -12,6 +12,14 @@ If you like this project, please give it a Star.
 > 1.本项目使用国内中文大语言模型智谱GLM，如希望使用其他大语言模型，请修改`src/glm.py`文件
 >
 > 2.本项目可以存在多个数据集，可以使用`编译数据库.py`对json格式的文件编译为需要的项目文件，所有的数据集文件都存放在`data/sentence_embeddings`文件夹内，以`[朝代]_[id].pt`的格式存在。
+>
+> 2.本项目提供了几个已经编译好的数据集文件放在release里，下载其中的sentence_embeddings.zip解压至./data/sentence_embeddings目录中。文件结构如下
+> ```sh
+> data
+>   - sentence_embeddings
+>       - 平安_0.pt
+>       - 唐_300.pt
+> ```
 
 | 功能         | 描述                                                         |
 | ------------ | ------------------------------------------------------------ |
