@@ -26,7 +26,7 @@ If you like this project, please give it a Star.
 
 - **日文搜索**
 
-![jp](data/pics/show2.png)
+![JP](data/pics/show2.png)
 
 # Installation
 
