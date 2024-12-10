@@ -22,11 +22,11 @@ If you like this project, please give it a Star.
 
 - **GUI**
 
-![0520ede0f509891f62bef09f4c7f63f1](data/pics/show1.png)
+![GUI](data/pics/show1.png)
 
 - **日文搜索**
 
-![6166ef4ddfbd8d2274380aab88f9d37c](.\data\pics\show2.png)
+![JP](data/pics/show2.png)
 
 # Installation
 
