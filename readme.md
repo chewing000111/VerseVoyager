@@ -65,9 +65,14 @@ If you like this project, please give it a Star.
     python -m pip install -r requirements_cpu.txt
     ```
 
-1. 配置API_KEY等变量
+3. 配置API_KEY等变量
 
     在`data/settings.yaml`中，配置API KEY等变量。
+
+4. 下载BERT-CCPoem
+
+    在[BERT-CCPoem](https://github.com/THUNLP-AIPoet/BERT-CCPoem)项目中下载BERT_CCPoem_v1的模型文件，放入BERT_CCPoem_v1文件夹中。
+
 
 # Usage
 
