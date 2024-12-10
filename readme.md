@@ -22,7 +22,7 @@ If you like this project, please give it a Star.
 
 - **GUI**
 
-![0520ede0f509891f62bef09f4c7f63f1](.\data\pics\show1.png)
+![0520ede0f509891f62bef09f4c7f63f1](data/pics/show1.png)
 
 - **日文搜索**
 
