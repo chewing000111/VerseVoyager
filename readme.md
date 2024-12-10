@@ -3,8 +3,10 @@
 梅宿莺 (VerseVoyager)
 </h1>
 </div>
+
 **梅宿莺: 一个中日双语诗词向量数据库搜索引擎**
 **如果喜欢这个项目，请给它一个Star**
+
 VerseVoyager: A Chinese-Japanese Bilingual Poetic Vector Database Search Engine
 If you like this project, please give it a Star.
 
