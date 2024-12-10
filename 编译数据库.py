@@ -39,7 +39,6 @@ def make_sentence_embeddings(json_path, sentence_embeddings_pt_path):
 
 
 
-
 make_sentence_embeddings("./data/poet.song.test.json", "./data/sentence_embeddings/new_0.pt")
 
 
